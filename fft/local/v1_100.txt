@@ -1,0 +1,42 @@
+Host is running ...
+size: 61440
+Waiting for the board to finish...
+       c0: 5	c1: 5	c2: 5	c3: 5	c4: 5	c5: 5	c6: 5	c7: 5	c8: 5	c9: 5	
+Read data from board
+0, 209239962
+Waiting for the board to finish...
+       c0: 5	c1: 5	c2: 5	c3: 5	c4: 5	c5: 5	c6: 5	c7: 5	c8: 5	c9: 5	
+Read data from board
+0, 209239436
+Waiting for the board to finish...
+       c0: 5	c1: 5	c2: 5	c3: 5	c4: 5	c5: 5	c6: 5	c7: 5	c8: 5	c9: 5	
+Read data from board
+0, 208995866
+Waiting for the board to finish...
+       c0: 5	c1: 5	c2: 5	c3: 5	c4: 5	c5: 5	c6: 5	c7: 5	c8: 5	c9: 5	
+Read data from board
+0, 209292840
+Waiting for the board to finish...
+       c0: 5	c1: 5	c2: 5	c3: 5	c4: 5	c5: 5	c6: 5	c7: 5	c8: 5	c9: 5	
+Read data from board
+0, 209076219
+Waiting for the board to finish...
+       c0: 5	c1: 5	c2: 5	c3: 5	c4: 5	c5: 5	c6: 5	c7: 5	c8: 5	c9: 5	
+Read data from board
+0, 209023612
+Waiting for the board to finish...
+       c0: 5	c1: 5	c2: 5	c3: 5	c4: 5	c5: 5	c6: 5	c7: 5	c8: 5	c9: 5	
+Read data from board
+0, 209099902
+Waiting for the board to finish...
+       c0: 5	c1: 5	c2: 5	c3: 5	c4: 5	c5: 5	c6: 5	c7: 5	c8: 5	c9: 5	
+Read data from board
+0, 209135693
+Waiting for the board to finish...
+       c0: 5	c1: 5	c2: 5	c3: 5	c4: 5	c5: 5	c6: 5	c7: 5	c8: 5	c9: 5	
+Read data from board
+0, 209342237
+Waiting for the board to finish...
+       c0: 5	c1: 5	c2: 5	c3: 5	c4: 5	c5: 5	c6: 5	c7: 5	c8: 5	c9: 5	
+Read data from board
+0, 209454234
