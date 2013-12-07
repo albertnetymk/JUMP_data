@@ -3,40 +3,40 @@ size: 61440
 Waiting for the board to finish...
        c0: 5	c1: 5	c2: 5	c3: 5	c4: 5	c5: 5	c6: 5	c7: 5	c8: 5	c9: 5	
 Read data from board
-0, 200621871
+0, 200627126
 Waiting for the board to finish...
        c0: 5	c1: 5	c2: 5	c3: 5	c4: 5	c5: 5	c6: 5	c7: 5	c8: 5	c9: 5	
 Read data from board
-0, 200631610
+0, 200704776
 Waiting for the board to finish...
        c0: 5	c1: 5	c2: 5	c3: 5	c4: 5	c5: 5	c6: 5	c7: 5	c8: 5	c9: 5	
 Read data from board
-0, 200642210
+0, 200625836
 Waiting for the board to finish...
        c0: 5	c1: 5	c2: 5	c3: 5	c4: 5	c5: 5	c6: 5	c7: 5	c8: 5	c9: 5	
 Read data from board
-0, 200630556
+0, 200679886
 Waiting for the board to finish...
        c0: 5	c1: 5	c2: 5	c3: 5	c4: 5	c5: 5	c6: 5	c7: 5	c8: 5	c9: 5	
 Read data from board
-0, 200618812
+0, 200636902
 Waiting for the board to finish...
        c0: 5	c1: 5	c2: 5	c3: 5	c4: 5	c5: 5	c6: 5	c7: 5	c8: 5	c9: 5	
 Read data from board
-0, 200626923
+0, 200687382
 Waiting for the board to finish...
        c0: 5	c1: 5	c2: 5	c3: 5	c4: 5	c5: 5	c6: 5	c7: 5	c8: 5	c9: 5	
 Read data from board
-0, 200613292
+0, 200637180
 Waiting for the board to finish...
        c0: 5	c1: 5	c2: 5	c3: 5	c4: 5	c5: 5	c6: 5	c7: 5	c8: 5	c9: 5	
 Read data from board
-0, 200634992
+0, 200693180
 Waiting for the board to finish...
        c0: 5	c1: 5	c2: 5	c3: 5	c4: 5	c5: 5	c6: 5	c7: 5	c8: 5	c9: 5	
 Read data from board
-0, 200634770
+0, 200632441
 Waiting for the board to finish...
        c0: 5	c1: 5	c2: 5	c3: 5	c4: 5	c5: 5	c6: 5	c7: 5	c8: 5	c9: 5	
 Read data from board
-0, 200619345
+0, 200632767
