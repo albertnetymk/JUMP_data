@@ -1,42 +1,102 @@
 Host is running ...
 size: 68472
 Waiting for the board to finish...
+       c0: 3	c1: 3	c2: 3	c3: 3	c4: 3	c5: 3	c6: 3	c7: 3	c8: 3	c9: 3	
+line 0 c0: 0	c1: 0	c2: 0	c3: 0	c4: 0	c5: 0	c6: 0	c7: 0	c8: 0	c9: 0	
+line 1 c0: 0	c1: 0	c2: 0	c3: 0	c4: 0	c5: 0	c6: 0	c7: 0	c8: 0	c9: 0	
+line 2 c0: 0	c1: 0	c2: 0	c3: 0	c4: 0	c5: 0	c6: 0	c7: 0	c8: 0	c9: 0	
+line 3 c0: 0	c1: 0	c2: 0	c3: 0	c4: 0	c5: 0	c6: 0	c7: 0	c8: 0	c9: 0	
+core is in 3, loop times: 0
        c0: 5	c1: 5	c2: 5	c3: 5	c4: 5	c5: 5	c6: 5	c7: 5	c8: 5	c9: 5	
 Read data from board
-0, 438296641
+0, 438306174
 Waiting for the board to finish...
+       c0: 3	c1: 3	c2: 3	c3: 3	c4: 3	c5: 3	c6: 3	c7: 3	c8: 3	c9: 3	
+line 0 c0: 0	c1: 0	c2: 0	c3: 0	c4: 0	c5: 0	c6: 0	c7: 0	c8: 0	c9: 0	
+line 1 c0: 0	c1: 0	c2: 0	c3: 0	c4: 0	c5: 0	c6: 0	c7: 0	c8: 0	c9: 0	
+line 2 c0: 0	c1: 0	c2: 0	c3: 0	c4: 0	c5: 0	c6: 0	c7: 0	c8: 0	c9: 0	
+line 3 c0: 0	c1: 0	c2: 0	c3: 0	c4: 0	c5: 0	c6: 0	c7: 0	c8: 0	c9: 0	
+core is in 3, loop times: 1
        c0: 5	c1: 5	c2: 5	c3: 5	c4: 5	c5: 5	c6: 5	c7: 5	c8: 5	c9: 5	
 Read data from board
-0, 438302836
+0, 438276153
 Waiting for the board to finish...
+       c0: 3	c1: 3	c2: 3	c3: 3	c4: 3	c5: 3	c6: 3	c7: 3	c8: 3	c9: 3	
+line 0 c0: 0	c1: 0	c2: 0	c3: 0	c4: 0	c5: 0	c6: 0	c7: 0	c8: 0	c9: 0	
+line 1 c0: 0	c1: 0	c2: 0	c3: 0	c4: 0	c5: 0	c6: 0	c7: 0	c8: 0	c9: 0	
+line 2 c0: 0	c1: 0	c2: 0	c3: 0	c4: 0	c5: 0	c6: 0	c7: 0	c8: 0	c9: 0	
+line 3 c0: 0	c1: 0	c2: 0	c3: 0	c4: 0	c5: 0	c6: 0	c7: 0	c8: 0	c9: 0	
+core is in 3, loop times: 2
        c0: 5	c1: 5	c2: 5	c3: 5	c4: 5	c5: 5	c6: 5	c7: 5	c8: 5	c9: 5	
 Read data from board
-0, 438255529
+0, 438312325
 Waiting for the board to finish...
+       c0: 3	c1: 3	c2: 3	c3: 3	c4: 3	c5: 3	c6: 3	c7: 3	c8: 3	c9: 3	
+line 0 c0: 0	c1: 0	c2: 0	c3: 0	c4: 0	c5: 0	c6: 0	c7: 0	c8: 0	c9: 0	
+line 1 c0: 0	c1: 0	c2: 0	c3: 0	c4: 0	c5: 0	c6: 0	c7: 0	c8: 0	c9: 0	
+line 2 c0: 0	c1: 0	c2: 0	c3: 0	c4: 0	c5: 0	c6: 0	c7: 0	c8: 0	c9: 0	
+line 3 c0: 0	c1: 0	c2: 0	c3: 0	c4: 0	c5: 0	c6: 0	c7: 0	c8: 0	c9: 0	
+core is in 3, loop times: 3
        c0: 5	c1: 5	c2: 5	c3: 5	c4: 5	c5: 5	c6: 5	c7: 5	c8: 5	c9: 5	
 Read data from board
-0, 438305444
+0, 438305680
 Waiting for the board to finish...
+       c0: 3	c1: 3	c2: 3	c3: 3	c4: 3	c5: 3	c6: 3	c7: 3	c8: 3	c9: 3	
+line 0 c0: 0	c1: 0	c2: 0	c3: 0	c4: 0	c5: 0	c6: 0	c7: 0	c8: 0	c9: 0	
+line 1 c0: 0	c1: 0	c2: 0	c3: 0	c4: 0	c5: 0	c6: 0	c7: 0	c8: 0	c9: 0	
+line 2 c0: 0	c1: 0	c2: 0	c3: 0	c4: 0	c5: 0	c6: 0	c7: 0	c8: 0	c9: 0	
+line 3 c0: 0	c1: 0	c2: 0	c3: 0	c4: 0	c5: 0	c6: 0	c7: 0	c8: 0	c9: 0	
+core is in 3, loop times: 4
        c0: 5	c1: 5	c2: 5	c3: 5	c4: 5	c5: 5	c6: 5	c7: 5	c8: 5	c9: 5	
 Read data from board
-0, 438349267
+0, 438294468
 Waiting for the board to finish...
+       c0: 3	c1: 3	c2: 3	c3: 3	c4: 3	c5: 3	c6: 3	c7: 3	c8: 3	c9: 3	
+line 0 c0: 0	c1: 0	c2: 0	c3: 0	c4: 0	c5: 0	c6: 0	c7: 0	c8: 0	c9: 0	
+line 1 c0: 0	c1: 0	c2: 0	c3: 0	c4: 0	c5: 0	c6: 0	c7: 0	c8: 0	c9: 0	
+line 2 c0: 0	c1: 0	c2: 0	c3: 0	c4: 0	c5: 0	c6: 0	c7: 0	c8: 0	c9: 0	
+line 3 c0: 0	c1: 0	c2: 0	c3: 0	c4: 0	c5: 0	c6: 0	c7: 0	c8: 0	c9: 0	
+core is in 3, loop times: 5
        c0: 5	c1: 5	c2: 5	c3: 5	c4: 5	c5: 5	c6: 5	c7: 5	c8: 5	c9: 5	
 Read data from board
-0, 438318372
+0, 438273866
 Waiting for the board to finish...
+       c0: 3	c1: 3	c2: 3	c3: 3	c4: 3	c5: 3	c6: 3	c7: 3	c8: 3	c9: 3	
+line 0 c0: 0	c1: 0	c2: 0	c3: 0	c4: 0	c5: 0	c6: 0	c7: 0	c8: 0	c9: 0	
+line 1 c0: 0	c1: 0	c2: 0	c3: 0	c4: 0	c5: 0	c6: 0	c7: 0	c8: 0	c9: 0	
+line 2 c0: 0	c1: 0	c2: 0	c3: 0	c4: 0	c5: 0	c6: 0	c7: 0	c8: 0	c9: 0	
+line 3 c0: 0	c1: 0	c2: 0	c3: 0	c4: 0	c5: 0	c6: 0	c7: 0	c8: 0	c9: 0	
+core is in 3, loop times: 6
        c0: 5	c1: 5	c2: 5	c3: 5	c4: 5	c5: 5	c6: 5	c7: 5	c8: 5	c9: 5	
 Read data from board
-0, 438270628
+0, 438322609
 Waiting for the board to finish...
+       c0: 3	c1: 3	c2: 3	c3: 3	c4: 3	c5: 3	c6: 3	c7: 3	c8: 3	c9: 3	
+line 0 c0: 0	c1: 0	c2: 0	c3: 0	c4: 0	c5: 0	c6: 0	c7: 0	c8: 0	c9: 0	
+line 1 c0: 0	c1: 0	c2: 0	c3: 0	c4: 0	c5: 0	c6: 0	c7: 0	c8: 0	c9: 0	
+line 2 c0: 0	c1: 0	c2: 0	c3: 0	c4: 0	c5: 0	c6: 0	c7: 0	c8: 0	c9: 0	
+line 3 c0: 0	c1: 0	c2: 0	c3: 0	c4: 0	c5: 0	c6: 0	c7: 0	c8: 0	c9: 0	
+core is in 3, loop times: 7
        c0: 5	c1: 5	c2: 5	c3: 5	c4: 5	c5: 5	c6: 5	c7: 5	c8: 5	c9: 5	
 Read data from board
-0, 438254258
+0, 438305898
 Waiting for the board to finish...
+       c0: 3	c1: 3	c2: 3	c3: 3	c4: 3	c5: 3	c6: 3	c7: 3	c8: 3	c9: 3	
+line 0 c0: 0	c1: 0	c2: 0	c3: 0	c4: 0	c5: 0	c6: 0	c7: 0	c8: 0	c9: 0	
+line 1 c0: 0	c1: 0	c2: 0	c3: 0	c4: 0	c5: 0	c6: 0	c7: 0	c8: 0	c9: 0	
+line 2 c0: 0	c1: 0	c2: 0	c3: 0	c4: 0	c5: 0	c6: 0	c7: 0	c8: 0	c9: 0	
+line 3 c0: 0	c1: 0	c2: 0	c3: 0	c4: 0	c5: 0	c6: 0	c7: 0	c8: 0	c9: 0	
+core is in 3, loop times: 8
        c0: 5	c1: 5	c2: 5	c3: 5	c4: 5	c5: 5	c6: 5	c7: 5	c8: 5	c9: 5	
 Read data from board
-0, 438277671
+0, 438281040
 Waiting for the board to finish...
+       c0: 3	c1: 3	c2: 3	c3: 3	c4: 3	c5: 3	c6: 3	c7: 3	c8: 3	c9: 3	
+line 0 c0: 0	c1: 0	c2: 0	c3: 0	c4: 0	c5: 0	c6: 0	c7: 0	c8: 0	c9: 0	
+line 1 c0: 0	c1: 0	c2: 0	c3: 0	c4: 0	c5: 0	c6: 0	c7: 0	c8: 0	c9: 0	
+line 2 c0: 0	c1: 0	c2: 0	c3: 0	c4: 0	c5: 0	c6: 0	c7: 0	c8: 0	c9: 0	
+line 3 c0: 0	c1: 0	c2: 0	c3: 0	c4: 0	c5: 0	c6: 0	c7: 0	c8: 0	c9: 0	
+core is in 3, loop times: 9
        c0: 5	c1: 5	c2: 5	c3: 5	c4: 5	c5: 5	c6: 5	c7: 5	c8: 5	c9: 5	
 Read data from board
-0, 438296987
+0, 438270780
