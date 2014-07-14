@@ -18,16 +18,17 @@ temporal but also spatial information, i.e. the direction of incoming signals.
 ![AESA beam forming principle\label{f:aesa}](./images/aesa.png)
 
 Figure \ref{f:chain} presents the simplified radar signal processing chain,
-among which only the first three blocks are discussed in this paper for they
+among which only the first three blocks are discussed in this report for they
 have more parallelism to exploit.
 
 ![AESA radar signal processing chain \label{f:chain}](./images/chain.png)
 
-Three applications corresponding to the three blocks are implemented using CAL,
-and are running on Epiphany by utilizing the front end from Lund University and
-C Code Generator from Halmstad University. This report will summarize the
-development process on the three applications: `matrix`, `fft`, `fir`. (These
-are the essential mathematical operations behind each block.)
+Three applications corresponding to the three blocks are implemented using CAL
+^[Available at https://github.com/albertnetymk/JUMP_CAL], and are running on
+Epiphany by utilizing the front end from Lund University and C Code Generator
+from Halmstad University. This report will summarize the development process on
+the three applications: `matrix`, `fft`, `fir`. (These are the essential
+mathematical operations behind each block.)
 
 Before the CAL version development starts, there's already one functional matlab
 implementation, so all the input/output data these apps used are obtained from
@@ -88,7 +89,7 @@ data inside the actor to perform step 4 and 5.
 Using the same argument from previous block, we convert 2D images into stream as well. Considering the order how input data is needed, it's efficient
 to rearrange images as chunks with each chunk as 32 columns. This way, we could obtain result as we pipe the data into this block, like one stream.
 
-# FIR
+# Pulse Compression (PC)
 
 ![Pulse Compression \label{f:pc}](./images/pc.png)
 
@@ -109,3 +110,32 @@ In this block, we will construct stream from each column, since it works columnw
 implement this block, but extra care needs to be taken on the beginning and ending of each column. At beginning, only bottom half of weight array is
 used, for the other half would be used on `0`. On ending of this column (before starting of next column), we have to gradually use the top half of
 weight array to mimic the shift of FIR taps.
+
+# Result
+
+Utilizing the CAL tool chain for Epiphany, we run the three applications on
+physical Epiphany chip, where each core is operating on 400MHz, provided by
+Adapteva Inc. We are measuring the complete transaction duration, starting from
+the first token consumed to the last token emitted. ^[Complete raw data could be
+found at https://github.com/albertnetymk/JUMP_data]
+
+## Digital Beam Former (DBF)
+
+4000 tokens are used from each input image, and 64000 (16x4000) tokens totally,
+for there are 16 input images. The total duration is around 438 million cycles
+(0.73 second)
+
+## Doppler Filter Bank (DFB)
+
+7680 (32x240) tokens (has to be multiple of 32 because FFT operates on 32 tokens
+per time) are used from each input image, and 61440 (8x32x240) tokens totally,
+for there are 8 input images. The total duration is around 199 million cycles
+(0.33 second)
+
+## Pulse Compression (PC)
+
+8559 (951x9) tokens (has to be multiple of 951 because FIR operates on 951
+tokens per time)are used from each input image, and 68472 (8x951x9) tokens
+totally, for there are 8 input images. The total duration is around 437 million
+cycles (0.73 second)
+
